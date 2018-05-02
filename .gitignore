@@ -127,4 +127,6 @@ sympy-plots-for-*.tex/
 *.bak
 *.sav
 
+.vscode
+
 __latexindent_temp.tex
